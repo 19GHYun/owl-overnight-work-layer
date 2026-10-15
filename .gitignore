@@ -1,0 +1,10 @@
+owl_config.json
+owl_config.json.*
+logs/
+results/
+tasks/
+build/
+dist/
+*.spec
+__pycache__/
+SESSION_CONTEXT.md
